@@ -76,13 +76,7 @@
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=gunawan1608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gunawan1608&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunawan1608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 
 <div align="center">
 
