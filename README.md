@@ -79,9 +79,9 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gunawan1608&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=gunawan1608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gunawan1608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunawan1608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 <div align="center">
