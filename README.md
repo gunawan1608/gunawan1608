@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f3460,60:1a1a2e,100:0d1117&height=200&text=Gunawan%20Madia%20Pratama&fontColor=e2e8f0&fontSize=40&fontAlignY=45&desc=Software%20Engineering%20%7C%20Web%20%26%20Game%20Developer&descFontColor=64748b&descSize=15&descAlignY=68&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:fb923c,100:fdba74&height=160&section=header&text=Gunawan%20Madia%20Pratama&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineering%20%7C%20Web%20%26%20Game%20Developer&descFontColor=fff7ed&descSize=14&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=f97316&center=true&vCenter=true&width=480&lines=PHP+%2F+Laravel+%2F+Full-Stack;Game+Dev+with+Godot+4;Clean+code+%3E+clever+code;Always+learning%2C+always+shipping" alt="Typing SVG"/>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+things+that+run+on+servers+%26+browsers;PHP+%2F+Laravel+%2F+Full-Stack+Developer;Game+Dev+with+Godot+4;Clean+code+%3E+clever+code;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunawan-madia-pratama-3172753a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gm_pratama16)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamagunawan08@gmail.com)
@@ -19,105 +14,95 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
 ```yaml
-name:       Gunawan Madia Pratama
-location:   Indonesia 🇮🇩
-role:       Software Engineering Student
-focus:      [ Web Dev, Game Dev, Clean Architecture ]
-learning:   Laravel 12 · Filament · Alpine.js
-fun_fact:   I also ship games on Itch.io 🎮
+name     : Gunawan Madia Pratama
+location : Indonesia 
+role     : Software Engineering Student
+learning : Laravel & React
 ```
 
 ---
 
-## `$ cat tech-stack.json`
+## Tech Stack
 
 <div align="center">
 
-### 〔 Languages 〕
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=php,js,python,cs,html,css&perline=6&theme=dark" />
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 <br/>
 
-### 〔 Frameworks & Libraries 〕
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,vite,alpinejs,godot&perline=5&theme=dark" />
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)](#)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![Godot 4](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](#)
 
 <br/>
 
-### 〔 Database & Infrastructure 〕
+**Database & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,vercel,apache,git,github&perline=6&theme=dark" />
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br/>
 
-### 〔 Design & Tools 〕
+**Design & Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,canva,vscode,postman&perline=4&theme=dark" />
-
-</div>
-
----
-
-## `$ gh stats --user gunawan1608`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gunawan1608&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub+Overview&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gunawan1608&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450" />
-
-</div>
-
-<div align="center">
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunawan1608&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Languages+Used" />
-&nbsp;&nbsp;
-<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunawan1608&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunawan1608&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunawan1608&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunawan1608&theme=tokyonight&utcOffset=7" />
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `$ git log --oneline --graph`
+## GitHub Stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunawan1608&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Timeline&point=38bdf8&line=0ea5e9&area_color=0f3460)](https://github.com/gunawan1608)
+<img height="175" src="https://github-readme-stats-salesp07.vercel.app/api?username=gunawan1608&show_icons=true&hide_border=false&border_color=f97316&title_color=f97316&icon_color=fb923c&text_color=1c1917&bg_color=fff7ed&rank_icon=github&custom_title=Overview&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="175" src="https://streak-stats.demolab.com/?user=gunawan1608&hide_border=false&border=f97316&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=78716c&dates=78716c&currStreakNum=1c1917&sideNums=1c1917&background=fff7ed" alt="Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gunawan1608&layout=donut&hide_border=false&border_color=f97316&title_color=f97316&text_color=1c1917&bg_color=fff7ed&langs_count=8&custom_title=Top+Languages" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## `$ cat focus.php`
-
-```php
-<?php
-
-$focus = [
-    'framework'  => 'Laravel 12',
-    'pattern'    => 'Clean Architecture',
-    'exploring'  => ['Livewire v3', 'Alpine.js', 'Filament'],
-    'next_goal'  => 'Ship a full SaaS product end-to-end',
-];
-
-// Progress: ████████░░  always learning, never stopping
-```
-
----
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer&fontColor=64748b" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gunawan1608&bg_color=fff7ed&color=c2410c&line=f97316&point=ea580c&area=true&area_color=fed7aa&hide_border=false&border_color=f97316&custom_title=Contribution+Activity" alt="Contribution Activity"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdba74,50:fb923c,100:f97316&height=100&section=footer" width="100%"/>
+
+*Made with ❤️ and lots of ☕ — gunawan1608*
 
 </div>
