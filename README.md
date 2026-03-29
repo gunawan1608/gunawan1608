@@ -77,21 +77,7 @@ learning : Laravel + React
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=gunawan1608&show_icons=true&hide_border=true&title_color=f97316&icon_color=fb923c&text_color=1c1917&bg_color=fff7ed&rank_icon=github&custom_title=Overview&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=gunawan1608&hide_border=true&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=78716c&dates=78716c&currStreakNum=1c1917&sideNums=1c1917&background=fff7ed" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gunawan1608&layout=donut&hide_border=true&title_color=f97316&text_color=1c1917&bg_color=fff7ed&langs_count=8&custom_title=Top+Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=gunawan1608&hide_border=true&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=78716c&dates=78716c&currStreakNum=1c1917&sideNums=1c1917&background=fff7ed&width=700&height=200" />
 
 </div>
 
