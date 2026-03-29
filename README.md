@@ -88,6 +88,3 @@ learning : Laravel + React
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunawan1608&bg_color=fff7ed&color=c2410c&line=f97316&point=ea580c&area=true&area_color=fed7aa&hide_border=false&border_color=f97316&custom_title=Contribution+Activity" width="100%"/>
 
 </div>
-*Made with love and lots of coffee - gunawan1608*
-
-</div>
