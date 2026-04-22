@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f97316,50:fb923c,100:fdba74&amp;height=160&amp;section=header&amp;text=Gunawan%20Madia%20Pratama&amp;fontSize=34&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Software%20Engineering%20-%20Web%20and%20Game%20Developer&amp;descFontColor=fff7ed&amp;descSize=14&amp;descAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=14&amp;pause=1000&amp;color=f97316&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=PHP+%2F+Laravel+%2F+Full-Stack;Game+Dev+with+Godot+4;Clean+code+%3E+clever+code;Always+learning%2C+always+shipping" alt="Typing SVG"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunawan-madia-pratama-3172753a5/)
